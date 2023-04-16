@@ -15,7 +15,7 @@ header h1 {
     padding-top: 100px;
     background-image: url(../img/lelystad.jpg);
     background-size: cover;
-    background-position: top;
+    background-position: center;
     background-repeat: no-repeat;
     height: 190px;
 }
